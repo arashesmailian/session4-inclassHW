@@ -1,0 +1,47 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.main-container2{
+    width: 800px;
+    margin: auto;
+}
+.main-container2 h5 {
+    color: gray;
+    font-size: 14px;
+    font-weight: lighter;
+}
+.top-icons{
+    background-color: #E0E0E0;
+    padding: 7px;
+}
+div h3:first-of-type {
+    font-weight: bold;
+    font-size: 14px;
+    color: dimgray;
+    text-align: left;
+}
+.main-container2 p{
+    font-size: 14px;
+    color: grey;
+}
+.bot-icons{
+    display: inline-block;
+    width: 17%;
+    padding: 7px;
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+}
+i{
+    padding-right: 3px;
+}
+.avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 25px;
+    float: left;
+}
+/*}.avatar-div span{*/
+/*    display: inline-block;*/
+/* }*/
